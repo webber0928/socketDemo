@@ -24,4 +24,5 @@ stop: 送出後會暫停 youtube
 # 參考資料
 
 [youtube api](https://developers.google.com/youtube/iframe_api_reference?csw=1#pauseVideo)
+
 [socketio](http://socket.io/get-started/chat/)
